@@ -1,0 +1,98 @@
+C:\Users\takvi\source\repos\Invenetory Management\Invenetory Management\bin\Debug\net6.0-windows\Invenetory Management.exe
+C:\Users\takvi\source\repos\Invenetory Management\Invenetory Management\bin\Debug\net6.0-windows\Invenetory Management.deps.json
+C:\Users\takvi\source\repos\Invenetory Management\Invenetory Management\bin\Debug\net6.0-windows\Invenetory Management.runtimeconfig.json
+C:\Users\takvi\source\repos\Invenetory Management\Invenetory Management\bin\Debug\net6.0-windows\Invenetory Management.dll
+C:\Users\takvi\source\repos\Invenetory Management\Invenetory Management\bin\Debug\net6.0-windows\Invenetory Management.pdb
+C:\Users\takvi\source\repos\Invenetory Management\Invenetory Management\obj\Debug\net6.0-windows\Invenetory Management.csproj.AssemblyReference.cache
+C:\Users\takvi\source\repos\Invenetory Management\Invenetory Management\obj\Debug\net6.0-windows\Invenetory_Management.Properties.Resources.resources
+C:\Users\takvi\source\repos\Invenetory Management\Invenetory Management\obj\Debug\net6.0-windows\Invenetory Management.csproj.GenerateResource.cache
+C:\Users\takvi\source\repos\Invenetory Management\Invenetory Management\obj\Debug\net6.0-windows\Invenetory Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takvi\source\repos\Invenetory Management\Invenetory Management\obj\Debug\net6.0-windows\Invenetory Management.AssemblyInfoInputs.cache
+C:\Users\takvi\source\repos\Invenetory Management\Invenetory Management\obj\Debug\net6.0-windows\Invenetory Management.AssemblyInfo.cs
+C:\Users\takvi\source\repos\Invenetory Management\Invenetory Management\obj\Debug\net6.0-windows\Invenetory Management.csproj.CoreCompileInputs.cache
+C:\Users\takvi\source\repos\Invenetory Management\Invenetory Management\obj\Debug\net6.0-windows\Invenetory Management.dll
+C:\Users\takvi\source\repos\Invenetory Management\Invenetory Management\obj\Debug\net6.0-windows\refint\Invenetory Management.dll
+C:\Users\takvi\source\repos\Invenetory Management\Invenetory Management\obj\Debug\net6.0-windows\Invenetory Management.pdb
+C:\Users\takvi\source\repos\Invenetory Management\Invenetory Management\obj\Debug\net6.0-windows\Invenetory Management.genruntimeconfig.cache
+C:\Users\takvi\source\repos\Invenetory Management\Invenetory Management\obj\Debug\net6.0-windows\ref\Invenetory Management.dll
+C:\Users\takvi\source\repos\Invenetory Management\Invenetory Management\obj\Debug\net6.0-windows\Invenetory_Management.loginForm.resources
+C:\Users\takvi\source\repos\Invenetory Management\Invenetory Management\obj\Debug\net6.0-windows\Invenetory_Management.MainScreenForm.resources
+C:\Users\takvi\source\repos\Invenetory Management\Invenetory Management\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\takvi\source\repos\Invenetory Management\Invenetory Management\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\takvi\source\repos\Invenetory Management\Invenetory Management\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\takvi\source\repos\Invenetory Management\Invenetory Management\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\takvi\source\repos\Invenetory Management\Invenetory Management\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\takvi\source\repos\Invenetory Management\Invenetory Management\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\takvi\source\repos\Invenetory Management\Invenetory Management\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\takvi\source\repos\Invenetory Management\Invenetory Management\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\takvi\source\repos\Invenetory Management\Invenetory Management\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\takvi\source\repos\Invenetory Management\Invenetory Management\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\takvi\source\repos\Invenetory Management\Invenetory Management\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\takvi\source\repos\Invenetory Management\Invenetory Management\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\takvi\source\repos\Invenetory Management\Invenetory Management\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\takvi\source\repos\Invenetory Management\Invenetory Management\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\takvi\source\repos\Invenetory Management\Invenetory Management\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\takvi\source\repos\Invenetory Management\Invenetory Management\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\takvi\source\repos\Invenetory Management\Invenetory Management\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\takvi\source\repos\Invenetory Management\Invenetory Management\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\takvi\source\repos\Invenetory Management\Invenetory Management\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\takvi\source\repos\Invenetory Management\Invenetory Management\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\takvi\source\repos\Invenetory Management\Invenetory Management\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\takvi\source\repos\Invenetory Management\Invenetory Management\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\takvi\source\repos\Invenetory Management\Invenetory Management\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\takvi\source\repos\Invenetory Management\Invenetory Management\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\takvi\source\repos\Invenetory Management\Invenetory Management\obj\Debug\net6.0-windows\Invenetory Management.csproj.CopyComplete
+C:\Users\takvi\source\repos\Invenetory-Management-System-using-WindowsForm-\Invenetory Management\bin\Debug\net6.0-windows\Invenetory Management.exe
+C:\Users\takvi\source\repos\Invenetory-Management-System-using-WindowsForm-\Invenetory Management\bin\Debug\net6.0-windows\Invenetory Management.deps.json
+C:\Users\takvi\source\repos\Invenetory-Management-System-using-WindowsForm-\Invenetory Management\bin\Debug\net6.0-windows\Invenetory Management.runtimeconfig.json
+C:\Users\takvi\source\repos\Invenetory-Management-System-using-WindowsForm-\Invenetory Management\bin\Debug\net6.0-windows\Invenetory Management.dll
+C:\Users\takvi\source\repos\Invenetory-Management-System-using-WindowsForm-\Invenetory Management\bin\Debug\net6.0-windows\Invenetory Management.pdb
+C:\Users\takvi\source\repos\Invenetory-Management-System-using-WindowsForm-\Invenetory Management\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\takvi\source\repos\Invenetory-Management-System-using-WindowsForm-\Invenetory Management\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\takvi\source\repos\Invenetory-Management-System-using-WindowsForm-\Invenetory Management\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\takvi\source\repos\Invenetory-Management-System-using-WindowsForm-\Invenetory Management\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\takvi\source\repos\Invenetory-Management-System-using-WindowsForm-\Invenetory Management\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\takvi\source\repos\Invenetory-Management-System-using-WindowsForm-\Invenetory Management\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\takvi\source\repos\Invenetory-Management-System-using-WindowsForm-\Invenetory Management\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\takvi\source\repos\Invenetory-Management-System-using-WindowsForm-\Invenetory Management\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\takvi\source\repos\Invenetory-Management-System-using-WindowsForm-\Invenetory Management\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\takvi\source\repos\Invenetory-Management-System-using-WindowsForm-\Invenetory Management\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\takvi\source\repos\Invenetory-Management-System-using-WindowsForm-\Invenetory Management\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\takvi\source\repos\Invenetory-Management-System-using-WindowsForm-\Invenetory Management\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\takvi\source\repos\Invenetory-Management-System-using-WindowsForm-\Invenetory Management\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\takvi\source\repos\Invenetory-Management-System-using-WindowsForm-\Invenetory Management\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\takvi\source\repos\Invenetory-Management-System-using-WindowsForm-\Invenetory Management\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\takvi\source\repos\Invenetory-Management-System-using-WindowsForm-\Invenetory Management\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\takvi\source\repos\Invenetory-Management-System-using-WindowsForm-\Invenetory Management\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\takvi\source\repos\Invenetory-Management-System-using-WindowsForm-\Invenetory Management\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\takvi\source\repos\Invenetory-Management-System-using-WindowsForm-\Invenetory Management\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\takvi\source\repos\Invenetory-Management-System-using-WindowsForm-\Invenetory Management\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\takvi\source\repos\Invenetory-Management-System-using-WindowsForm-\Invenetory Management\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\takvi\source\repos\Invenetory-Management-System-using-WindowsForm-\Invenetory Management\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\takvi\source\repos\Invenetory-Management-System-using-WindowsForm-\Invenetory Management\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\takvi\source\repos\Invenetory-Management-System-using-WindowsForm-\Invenetory Management\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\takvi\source\repos\Invenetory-Management-System-using-WindowsForm-\Invenetory Management\obj\Debug\net6.0-windows\Invenetory Management.csproj.AssemblyReference.cache
+C:\Users\takvi\source\repos\Invenetory-Management-System-using-WindowsForm-\Invenetory Management\obj\Debug\net6.0-windows\Invenetory_Management.loginForm.resources
+C:\Users\takvi\source\repos\Invenetory-Management-System-using-WindowsForm-\Invenetory Management\obj\Debug\net6.0-windows\Invenetory_Management.MainScreenForm.resources
+C:\Users\takvi\source\repos\Invenetory-Management-System-using-WindowsForm-\Invenetory Management\obj\Debug\net6.0-windows\Invenetory_Management.Properties.Resources.resources
+C:\Users\takvi\source\repos\Invenetory-Management-System-using-WindowsForm-\Invenetory Management\obj\Debug\net6.0-windows\Invenetory Management.csproj.GenerateResource.cache
+C:\Users\takvi\source\repos\Invenetory-Management-System-using-WindowsForm-\Invenetory Management\obj\Debug\net6.0-windows\Invenetory Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takvi\source\repos\Invenetory-Management-System-using-WindowsForm-\Invenetory Management\obj\Debug\net6.0-windows\Invenetory Management.AssemblyInfoInputs.cache
+C:\Users\takvi\source\repos\Invenetory-Management-System-using-WindowsForm-\Invenetory Management\obj\Debug\net6.0-windows\Invenetory Management.AssemblyInfo.cs
+C:\Users\takvi\source\repos\Invenetory-Management-System-using-WindowsForm-\Invenetory Management\obj\Debug\net6.0-windows\Invenetory Management.csproj.CoreCompileInputs.cache
+C:\Users\takvi\source\repos\Invenetory-Management-System-using-WindowsForm-\Invenetory Management\obj\Debug\net6.0-windows\Invenetory Management.csproj.CopyComplete
+C:\Users\takvi\source\repos\Invenetory-Management-System-using-WindowsForm-\Invenetory Management\obj\Debug\net6.0-windows\Invenetory Management.dll
+C:\Users\takvi\source\repos\Invenetory-Management-System-using-WindowsForm-\Invenetory Management\obj\Debug\net6.0-windows\refint\Invenetory Management.dll
+C:\Users\takvi\source\repos\Invenetory-Management-System-using-WindowsForm-\Invenetory Management\obj\Debug\net6.0-windows\Invenetory Management.pdb
+C:\Users\takvi\source\repos\Invenetory-Management-System-using-WindowsForm-\Invenetory Management\obj\Debug\net6.0-windows\Invenetory Management.genruntimeconfig.cache
+C:\Users\takvi\source\repos\Invenetory-Management-System-using-WindowsForm-\Invenetory Management\obj\Debug\net6.0-windows\ref\Invenetory Management.dll
+C:\Users\takvi\source\repos\Invenetory-Management-System-using-WindowsForm-\Invenetory Management\obj\Debug\net6.0-windows\Invenetory_Management.AddProduct.resources
+C:\Users\takvi\source\repos\Invenetory-Management-System-using-WindowsForm-\Invenetory Management\obj\Debug\net6.0-windows\Invenetory_Management.UpdateProduct.resources
+C:\Users\takvi\source\repos\Invenetory-Management-System-using-WindowsForm-\Invenetory Management\obj\Debug\net6.0-windows\Invenetory_Management.DeleteProduct.resources
+C:\Users\takvi\source\repos\Invenetory-Management-System-using-WindowsForm-\Invenetory Management\obj\Debug\net6.0-windows\Invenetory_Management.Registration.resources
+C:\Users\takvi\source\repos\Invenetory-Management-System-using-WindowsForm-\Invenetory Management\obj\Debug\net6.0-windows\Invenetory_Management.ForgetPasswordForm.resources
+C:\Users\takvi\source\repos\Invenetory-Management-System-using-WindowsForm-\Invenetory Management\bin\Debug\net6.0-windows\Invenetory Management.dll.config
+C:\Users\takvi\source\repos\Invenetory-Management-System-using-WindowsForm-\Invenetory Management\obj\Debug\net6.0-windows\Invenetory_Management.Cart.resources
+C:\Users\takvi\source\repos\Invenetory-Management-System-using-WindowsForm-\Invenetory Management\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\takvi\source\repos\Invenetory-Management-System-using-WindowsForm-\Invenetory Management\obj\Debug\net6.0-windows\Invenetory Management.csproj.ResolveComReference.cache
+C:\Users\takvi\source\repos\Invenetory-Management-System-using-WindowsForm-\Invenetory Management\obj\Debug\net6.0-windows\Invenetory_Management.Sales.resources
